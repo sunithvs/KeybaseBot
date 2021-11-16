@@ -1,0 +1,17 @@
+astroid==2.8.5
+dataclasses-json==0.3.8
+isort==5.10.1
+lazy-object-proxy==1.6.0
+marshmallow==3.14.1
+marshmallow-enum==1.5.1
+mccabe==0.6.1
+mypy-extensions==0.4.3
+platformdirs==2.4.0
+pykeybasebot==0.2.1
+pylint==2.11.1
+python-dotenv==0.19.2
+stringcase==1.2.0
+toml==0.10.2
+typing-extensions==3.10.0.2
+typing-inspect==0.7.1
+wrapt==1.13.3
